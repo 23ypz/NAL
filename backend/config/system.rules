@@ -1,0 +1,15 @@
+competition {
+  hot_view_count = 100;
+  deadline_warn_days = 7;
+  allow_levels = A,B,C,D;
+}
+
+research {
+  max_apply_count = 3;
+  allow_stages = 课题招募,数据采集,论文撰写,成果申报;
+}
+
+security {
+  password_min_length = 6;
+  token_expire_hours = 168;
+}
